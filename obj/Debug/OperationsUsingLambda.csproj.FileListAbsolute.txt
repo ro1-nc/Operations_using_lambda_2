@@ -1,0 +1,10 @@
+D:\C# Assignments\OperationsUsingLambda\bin\Debug\OperationsUsingLambda.exe.config
+D:\C# Assignments\OperationsUsingLambda\bin\Debug\OperationsUsingLambda.exe
+D:\C# Assignments\OperationsUsingLambda\bin\Debug\OperationsUsingLambda.pdb
+D:\C# Assignments\OperationsUsingLambda\obj\Debug\OperationsUsingLambda.csprojAssemblyReference.cache
+D:\C# Assignments\OperationsUsingLambda\obj\Debug\OperationsUsingLambda.csproj.CoreCompileInputs.cache
+D:\C# Assignments\OperationsUsingLambda\obj\Debug\OperationsUsingLambda.exe
+D:\C# Assignments\OperationsUsingLambda\obj\Debug\OperationsUsingLambda.pdb
+D:\C# Assignments\OperationsUsingLambda\bin\Debug\Newtonsoft.Json.dll
+D:\C# Assignments\OperationsUsingLambda\bin\Debug\Newtonsoft.Json.xml
+D:\C# Assignments\OperationsUsingLambda\obj\Debug\OperationsUsingLambda.csproj.CopyComplete
